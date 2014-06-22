@@ -1,0 +1,10 @@
+## Linear Algebra Library
+## MIT License, 2014 Gurjot S. Sidhu
+
+. make matrices iterable
+. add solvers for eigen value problems
+. add linear equation solver
+
+Quantum
+. add schrodinger's equation solver
+. 
